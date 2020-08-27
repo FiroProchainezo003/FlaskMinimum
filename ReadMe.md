@@ -14,6 +14,7 @@ git clone https://github.com/FiroProchainezo003/FlaskMinimum
 ## 実行方法
 
 ### windows
+
 ```
 # Cloneしたフォルダで
 $ python3 -m vevn venv
