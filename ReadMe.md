@@ -13,16 +13,18 @@ git clone https://github.com/FiroProchainezo003/FlaskMinimum
 
 ## 実行方法
 
-
 ### windows
 ```
 # Cloneしたフォルダで
 $ python3 -m vevn venv
 $ venv\Scripts\activate
 $ python app.py
-```ddd
+```
+
+ブラウザから localhost:5000 にアクセス
 
 ### linux
+
 ```
 # Cloneしたフォルダで
 $ python3 -m vevn venv
@@ -30,6 +32,7 @@ $ source venv/Scripts/activate
 $ python app.py
 ```
 
+ブラウザから localhost:5000 にアクセス
 
 ## pythonバージョン
 
